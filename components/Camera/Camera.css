@@ -1,0 +1,8 @@
+#camera>main>button{
+    height: 30px;
+    width: 120px;
+}
+#camera>main>img{
+    height: 100px;
+    width: 100px;
+}

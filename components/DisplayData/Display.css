@@ -1,0 +1,25 @@
+#display{
+    margin: 0px;
+    margin: 0px;
+}
+#display>main{
+    height: auto;
+    width: auto;
+    text-align: center;
+}
+#display>main>button{
+    padding: 5px;
+    background-color: rgb(42, 88, 90);
+    color: white;
+    margin-left: 310px;
+    margin-bottom: 20px;
+}
+#display>main>table>tr>th{
+background-color: aqua;
+border: none;
+padding: 5px;
+}
+#display>main>table>tr>td{
+background-color: rgb(0, 255, 115);
+ padding: 3px;
+    }

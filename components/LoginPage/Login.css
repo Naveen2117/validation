@@ -1,0 +1,44 @@
+
+#login{
+    margin: 0px;
+    padding: 0px;
+    
+}
+#login>article>main{
+    margin: auto ;
+    color: white;
+    background: linear-gradient(to left, rgb(125, 125, 239),red);
+    height: 420px;
+    width: 300px;
+    border-radius: 5px;
+
+}
+#login>article>main>form{
+    margin: auto;
+    display: grid;
+    padding: 40px;
+     text-align: left;
+     justify-content: space-around;
+}
+#login>article>main>form>label{
+    font-size: 17px;
+    font-style: italic; 
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+#login>article>main>form>input{
+    border-style: none;
+    padding: 5px 3px 0px;
+    height: 25px;
+    border: none;
+    border-bottom: 0.5px solid white;
+    background-color: rgb(117, 215, 239);
+    color: black;
+}
+#login>article>main>form>button{
+    background-color: rgb(67, 67, 211);
+    color: white;
+    padding: 5px;
+    width: 150px;
+    margin: auto;
+}
